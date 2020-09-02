@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languageset currentset="Japanese">
+	<language set="Korean" codepage="949" charset="129">
+		<supportIME name="default.ime"/>
+		<supportIME name="imekr70.ime"/>			
+		<supportIME name="imekr61.ime"/>			
+		<supportIME name="imekr98u.ime"/>			
+		<supportIME name="imekr.ime"/>
+		<supportIME name="imkr12.ime"/>			
+		<supportIME name="imkr80.ime"/>			
+	</language>
+	<language set="Japanese" codepage="932" charset="128">
+		<supportIME name="default.ime"/>
+		<supportIME name="imejp.ime"/>	
+		<supportIME name="imejp98.ime"/>
+		<supportIME name="imjp81.ime"/>
+		<supportIME name="imjp8.ime"/>	
+		<supportIME name="imjp9.ime"/>	
+		<supportIME name="atok18w.ime"/>
+		<supportIME name="atok20w.ime"/>		
+	</language>
+	<language set="Chinese" codepage="936" charset="134">
+		<supportIME name="default.ime"/>
+		<supportIME name="pintlgnt.ime"/>
+		<supportIME name="winabc.ime"/>
+		<supportIME name="winpy.ime"/>
+		<supportIME name="winzm.ime"/>
+		<supportIME name="imsc40a.ime"/>
+		<supportIME name="wingb.ime"/>
+		<supportIME name="winsp.ime"/>
+		<supportIME name="imsc12.ime"/>
+		<supportIME name="googlepinyin.ime"/>
+		<supportIME name="pyjj4.ime"/>
+		<supportIME name="sogoupy.ime"/>
+		<supportIME name="unispim5.ime"/>
+		<supportIME name="pwmpy32.ime"/>
+		<supportIME name="pwbx3245.ime"/>
+		<supportIME name="wnwbio.ime"/>
+		<supportIME name="wnwb.ime"/>
+	</language>
+	<language set="Taiwanese" codepage="950" charset="136">
+		<supportIME name="default.ime"/>
+		<supportIME name="phon.ime"/>
+		<supportIME name="cintlgnt.ime"/>
+		<supportIME name="tintlgnt.ime"/>
+		<supportIME name="chajei.ime"/>
+		<supportIME name="dayi.ime"/>
+		<supportIME name="going8.ime"/>
+		<supportIME name="liunt.ime"/>
+		<supportIME name="quick.ime"/>
+		<supportIME name="romanime.ime"/>
+		<supportIME name="winar30.ime"/>
+		<supportIME name="going6.ime"/>
+		<supportIME name="mstcipha.ime"/>
+		<supportIME name="mstcicja.ime"/>
+		<supportIME name="imtcc12.ime"/>
+		<supportIME name="imtcp12.ime"/>
+	</language>
+	<language set="Thai" codepage="874" charset="222">
+		<supportIME name="default.ime"/>
+		<supportIME name="thai.ime"/>
+	</language>
+	<language set="English_Sea" codepage="0" charset="1">
+		<supportIME name="default.ime"/>
+	</language>
+	<language set="English" codepage="0" charset="1">
+		<supportIME name="default.ime"/>
+	</language>
+	<language set="Vietnamese" codepage="1258" charset="163">
+		<supportIME name="default.ime"/>
+	</language>
+	<language set="Russian" codepage="1251" charset="204">
+		<supportIME name="default.ime"/>
+	</language>
+</languageset>
